@@ -1,0 +1,29 @@
+_repo: The-Expressman-and-the-Detective_22155
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22155-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Pinkerton, Allan
+    birthdate: 1819
+    deathdate: 1884
+    gutenberg_agent_id: '7587'
+    url: http://www.gutenberg.org/2009/agents/7587
+    wikipedia: http://en.wikipedia.org/wiki/Allan_Pinkerton
+description: ''
+gutenberg_issued: '2007-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detectives -- United States -- Biography'
+- !lcsh 'Pinkerton, Allan, 1819-1884'
+- !lcsh 'Robbery -- United States -- Case studies'
+- !lcc 'HV'
+title: The Expressman and the Detective
+url: http://www.gutenberg.org/ebooks/22155
